@@ -1,0 +1,187 @@
+@media screen and (max-width: 1024px) {
+	.header-nav {
+		padding-left: 0;
+	}
+	.header-ul li {
+		display: inline-block;
+		width: 50%;
+	}
+	.header-wrapper {
+	    background-size: 100% 100%;
+	}
+	.lorem {
+		width: 80%;
+		font-size: 24px;
+	}
+	.bore {
+		width: 80%;
+		font-size: 40px;
+	}
+	.orem {
+		width: 80%;
+		font-size: 16px;
+	}
+	.sprite1 {
+		margin-left: -20%;
+	}
+	.header-content a {
+		margin-left: -20%;
+	}
+	h1,
+    .sign {
+		width: 80%;
+	}
+	.aboutme-content .block {
+		width: 20%;	
+	}
+	.services-content .block {
+		width: 80%;
+		margin: 0;
+	}
+	.img {
+		width: 25%;
+	}
+	.hover {
+		width: 80%;
+		padding:  35px 38px 53px 38px;
+	}
+	#name,
+    #email {
+    	width: 60%;
+    }
+    #message {
+    	width: 85%;
+    }
+    .title {
+    	font-size: 14px;
+    }
+    .description {
+    	font-size: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+	.header-nav {
+		padding-left: 0;
+	}
+	.header-ul li {
+		display: inline-block;
+		width: 15%;
+	}
+	.header-wrapper {
+		background-size: 100% 100%;
+	}
+	.lorem {
+		width: 50%;
+		font-size: 20px;
+	}
+	.bore {
+		width: 50%;
+		font-size: 36px;
+	}
+	.orem {
+		width: 50%;
+		font-size: 14px;
+	}
+	.sprite1 {
+		margin-left: -50%;
+	}
+	.header-content a {
+		margin-left: -50%;
+	}
+    h1,
+    .sign {
+		width: 50%;
+	}
+	.aboutme-content .block {
+		width: 35%;
+	}
+	.services-content .block {
+		display: block;
+	}
+	.shape {
+		display: none;
+	}
+	.img {
+		width: 50%;
+	}
+	#name,
+    #email {
+    	width: 50%;
+    }
+    #message {
+    	width: 70%;
+    }
+    .hover {
+		width: 65%;
+		padding:  35px 38px 53px 38px;
+	}
+	.title {
+    	font-size: 12px;
+    }
+    .description {
+    	font-size: 9px;
+    }
+}
+@media screen and (max-width: 414px) {
+	.header-nav {
+		padding-left: 0;
+	}
+	.header-ul li {
+		display: inline-block;
+		width: 5%;
+	}
+	.header-wrapper {
+		background-size: 100% 100%;
+	}
+	.lorem {
+		width: 25%; 
+		font-size: 14px;
+	}
+	.bore {
+		width: 25%; 
+		font-size: 20px;
+	}
+	.orem {
+		width: 25%; 
+		font-size: 12px;
+	}
+	.sprite1 {
+		margin-left: -90%;
+	}
+	.header-content a {
+	    margin-left: -90%;
+	}
+	h1,
+	.sign {
+		width: 25%;
+	}
+	.aboutme-content .block {
+		width: 90%;	
+	}
+	.services-content .block {
+		display: block;
+	}
+	.shape {
+		display: none;
+	}
+	.img {
+		width: 100%;
+	}
+	#name,
+    #email {
+    	width: 20%;
+    }
+    #message {
+    	width: 35%;
+    }
+    .hover {
+		width: 50%;
+		padding:  57px 38px 53px 38px;
+	}
+	.title {
+    	font-size: 11px;
+    }
+    .description {
+    	font-size: 8px;
+    }
+}

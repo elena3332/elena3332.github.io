@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+h1 {
+	color: #02918c;
+	font-size: 46px;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+}
+.text {
+	font-size: 16px;
+	line-height: 39px;
+}
+.description {
+	font-size: 11px;
+	line-height: 20px;
+}
+.sign {
+	padding-top: 13px;
+	padding-bottom: 18px;
+}
